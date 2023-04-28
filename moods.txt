@@ -1,0 +1,5 @@
+funny,
+informative,
+rhyming,
+interesting,
+viral
