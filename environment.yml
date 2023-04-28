@@ -90,7 +90,7 @@ dependencies:
   - libclang=12.0.0=default_hbc2896b_2
   - libcurl=7.87.0=ha585b31_0
   - libcxx=14.0.6=h9765a3e_0
-  - libdeflate=1.17=hac1461d_0
+
   - libedit=3.1.20191231=h0678c8f_2
   - libev=4.33=haf1e3a3_1
   - libevent=2.1.10=h815e4d9_4
