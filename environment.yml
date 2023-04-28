@@ -1,8 +1,4 @@
 name: streamlit-snowflake
-channels:
-  - anaconda
-  - conda-forge
-  - defaults
 dependencies:
   - abseil-cpp=20211102.0=h96cf925_1
   - altair=4.2.2=pyhd8ed1ab_0
